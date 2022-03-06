@@ -1,5 +1,7 @@
-function sum(m, n) {
-  // ваш код...
+function sum(a, b) {
+  return a + b;
 }
-sum(1,1) === 2
-sum(2,5) === 7
+
+let result = sum(2, 7);
+alert( result ); 
+
